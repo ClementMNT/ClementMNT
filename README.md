@@ -13,10 +13,6 @@
 - **Enedis** - Software Development Intern _(01/07/2022 - 01/12/2022)_
   - Worked on a project using JavaScript for front-end and Python for back-end.
 
-## 🌐 Personal Projects
-
-- [Project Name](Link to repository) - A brief description of your project
-
 ## 🎨 Interests
 
 - Cinema: I love watching movies and keeping up with new releases.
